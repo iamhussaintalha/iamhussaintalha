@@ -1,16 +1,12 @@
-## Hi there 👋
+# Talha Hussain
+Talha Hussain is a highly skilled Data Scientist and Mathematician with extensive experience in data analysis and machine learning. 📊 He holds an MSc in Mathematics from the University of Okara 🎓 and is currently pursuing an M.Phil in Data Science at the University of the Punjab. 🏫 Talha has a proven track record of delivering actionable solutions for business growth and decision-making, demonstrated through his internship at The Game Storm Studios, where he analyzed player behavior, created Power BI dashboards, and conducted statistical analysis for game optimization. 🎮📈
+Talha Hussain is a skilled with expertise in Python 🐍, developing advanced algorithms, and extracting insights from complex datasets. He excels in data visualization using Power BI 📊, Matplotlib 📉, and Seaborn 📊, and has a solid grasp of machine learning and deep learning techniques 🤖. Proficient with tools like Jupyter Notebook 📓, Google Colab 🌐, and Visual Studio Code 💻, Talha is also experienced in ETL processes and version control using Git 🔄. His projects include sentiment analysis of customer feedback 😊, car price prediction 🚗, and analyzing mobile phone usage's impact on mental health 📱. Certified in Neural Networks and Deep Learning from Deeplearning.AI 📜 and awarded as the Best Event Organizer by the University of Okara 🏆, Talha is dedicated to continuous learning 📚 and solving real-world problems, making him a valuable asset in data science 💡. 
 
-<!--
-**iamhussaintalha/iamhussaintalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- **Phone:** +92 316 7552317
+- **Email:** [iam.hussaintalha@gmail.com](mailto:iam.hussaintalha@gmail.com)
+- **Location:** Lahore, Pakistan
+- **GitHub:** [github.com/iamhussaintalha](https://github.com/iamhussaintalha)
+- **Kaggle:** [kaggle.com/hussaintalha](https://www.kaggle.com/hussaintalha)
+- **Personal Website:** [sites.google.com/view/talhahussain/home?authuser=0](https://sites.google.com/view/talhahussain/home?authuser=0)
+- **LinkedIn:** [linkedin.com/in/talha-hussain-a96029300](www.linkedin.com/in/talha-hussain-a96029300)
