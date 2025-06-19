@@ -8,5 +8,4 @@ Talha Hussain is a skilled with expertise in Python 🐍, developing advanced al
 - **Location:** Lahore, Pakistan
 - **GitHub:** [github.com/iamhussaintalha](https://github.com/iamhussaintalha)
 - **Kaggle:** [kaggle.com/hussaintalha](https://www.kaggle.com/hussaintalha)
-- **Personal Website:** [sites.google.com/view/talhahussain/home?authuser=0](https://sites.google.com/view/talhahussain/home?authuser=0)
 - **LinkedIn:** [linkedin.com/in/talha-hussain-a96029300](www.linkedin.com/in/talha-hussain-a96029300)
