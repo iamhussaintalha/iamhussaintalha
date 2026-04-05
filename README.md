@@ -110,16 +110,3 @@ Data Scientist with a strong mathematical background. Proficient in **Python**, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamhussaintalha&show_icons=true&theme=dark" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhussaintalha&theme=dark" alt="GitHub Streak" width="48%">
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamhussaintalha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
