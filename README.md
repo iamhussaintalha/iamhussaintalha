@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Talha Hussain</h1>
-<h3 align="center">Data Scientist | Mathematician | MPhil Data Science @ University of the Punjab</h3>
+<h3 align="center">Data Analyst | Mathematician | Data Scientist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/talha-hussain-a96029300" target="_blank">
