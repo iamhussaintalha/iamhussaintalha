@@ -117,9 +117,6 @@ Data Scientist with a strong mathematical background. Proficient in **Python**, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamhussaintalha&theme=dark" alt="GitHub Streak" width="48%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhussaintalha&layout=compact&theme=dark" alt="Top Languages">
-</p>
 
 ---
 
