@@ -12,6 +12,9 @@
   <a href="https://www.kaggle.com/hussaintalha" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
+  <a href="https://www.coursera.org/user/158921ddb68d83a7793d732e570c9ae9" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera">
+  </a>
 </p>
 
 <p align="center">
