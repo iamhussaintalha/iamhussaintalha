@@ -25,7 +25,7 @@
 
 ## 📌 Summary
 
-Data Scientist with a strong mathematical background. Proficient in **Python**, **Machine Learning**, and **Power BI**, with proven experience building predictive models and developing dashboards to deliver data-driven solutions. Seeking to apply technical and analytical skills to solve complex business problems.
+Data Scientist with a strong mathematical background. Proficient in *Python*, *Machine Learning*, and *Power BI*, with proven experience building predictive models and developing dashboards to deliver data driven solutions. Seeking to apply technical and analytical skills to solve complex business problems.
 
 ---
 
