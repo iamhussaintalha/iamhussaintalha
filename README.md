@@ -31,8 +31,14 @@ Data Scientist with a strong mathematical background. Proficient in **Python**, 
 
 ## 💼 Work Experience
 
+### 👨‍🏫 Visiting Faculty Member (BS Programs)
+**Aspire College Pattoki – Pattoki, Pakistan**  
+**July 2024 – June 2025 (1 year)**  
+- Delivered lectures and mentored undergraduate students in BS programs  
+- Contributed to institutional management through sincere and dedicated performance 
+
 ### 🎮 Data Analyst (Internship)
-*The Game Storm Studios (Private) Limited – Lahore, Punjab (On-site)*  
+**The Game Storm Studios (Private) Limited – Lahore, Punjab (On-site)**  
 **May 2024 – June 2024 (2 months)**  
 - Analyzed player behavior data to uncover insights
 - Built interactive Power BI dashboards
