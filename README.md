@@ -31,11 +31,13 @@ Data Scientist with a strong mathematical background. Proficient in *Python*, *M
 
 ## 💼 Work Experience
 
-### 👨‍🏫 Visiting Faculty Member (BS Programs)
-**Aspire College Pattoki – Pattoki, Pakistan**  
-**July 2024 – June 2025 (1 year)**  
-- Delivered lectures and mentored undergraduate students in BS programs  
-- Contributed to institutional management through sincere and dedicated performance 
+### 📊 Data Analyst
+**Lahore Waste Management Company (LWMC) – Lahore, Pakistan**  
+**26 July 2024 – Present**  
+- Analyze and interpret operational and organizational data to support data-driven decision-making
+- Prepare reports, dashboards, and data summaries to monitor performance and key operational indicators
+- Clean, organize, and validate datasets to ensure data accuracy and reliability
+- Collaborate with relevant departments to identify trends, generate insights, and improve reporting processes
 
 ### 🎮 Data Analyst (Internship)
 **The Game Storm Studios (Private) Limited – Lahore, Punjab (On-site)**  
