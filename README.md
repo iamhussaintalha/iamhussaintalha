@@ -41,7 +41,7 @@ Data Scientist with a strong mathematical background. Proficient in *Python*, *M
 
 ### 🎮 Data Analyst 
 **The Game Storm Studios (Private) Limited – Lahore, Punjab (On-site)**  
-**May 2023 – June 2024**  
+**May 2024 – June 2024**  
 - Analyzed player behavior data to uncover insights
 - Built interactive Power BI dashboards
 - Drove data-driven strategies that optimized game performance and user engagement
